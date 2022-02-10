@@ -2,6 +2,8 @@
 Project for a talent agency that manages and represents slovak actors. It serves as admin for creating, deleting, updating clients.
 Application is written in TypeScript, backend in Node.js and frontend in React.js
 
+Link to example of Clients page: http://dozproduction.com/
+
 ## Run app
 Application can run backend and frontend separately or concurrently
 using proxy parameter in package.json in client folder
